@@ -1,0 +1,13 @@
+Explanation:
+Setting Look and Feel: The code sets the Look and Feel of the application to the Windows Look and Feel.
+Main Window (JFrame): Creates the main application window, sets its size, and disables resizing.
+Panels:
+South Panel: Contains a status label.
+Center Panel: Uses a GridLayout to organize the labels and buttons for each part of the installation.
+Action Listeners: Each button has an ActionListener that starts a new thread to simulate installation with a delay and runs the appropriate batch file or executable.
+Menubar:
+File Menu: Contains options to refresh the agent (reenables buttons and updates the status) and exit the application.
+Help Menu: Contains options to show an about dialog, provide information about paid software, and open the IT service hub in a web browser.
+Adding Components: Adds all the labels, buttons, and menus to the appropriate panels and then adds these panels to the main window.
+Making the Window Visible: Finally, the main window is made visible.
+This code provides a complete GUI application that simulates a setup assistant with multiple installation steps and a menu for additional options.

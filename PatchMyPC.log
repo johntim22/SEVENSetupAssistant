@@ -1,0 +1,9 @@
+26/07/2024 16:43:24 - Cannot get portable App path from the registry.
+26/07/2024 16:43:24 - Patch My PC Started
+26/07/2024 16:43:24 - Checking connection to patchmypc.com
+26/07/2024 16:43:25 - Verified connection to patchmypc.com. Status Code: 200
+26/07/2024 16:43:25 - Getting latest definitions from patchmypc.com
+26/07/2024 16:43:25 - Definition load completed in: 0.25 seconds
+26/07/2024 16:43:25 - Patch My PC version 4.5.0.4 is running. The latest is 4.5.0.4
+26/07/2024 16:43:26 - Performing scan of installed applications
+26/07/2024 16:43:26 - Scan completed in: 0.77 seconds

@@ -12,12 +12,13 @@ echo This wizard will now install some basic software required for your computer
 timeout /t 10 /nobreak
 cls
 winget install GNU.Wget2
-winget install  Oracle.JavaRuntimeEnvironment
 winget install Brave.Brave
 winget install SoftDeluxe.FreeDownloadManager
 winget install Microsoft.WindowsPCHealthCheck
 winget install Microsoft.PCManager
 winget install Microsoft.UpdateAssistant
+winget install WestWind.MarkdownMonster
+winget install Obsidian.Obsidian
 winget install XP89DCGQ3K6VLD
 
 cls
